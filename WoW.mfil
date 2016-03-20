@@ -1,0 +1,6 @@
+version=2
+server=akamai
+	location=http://dist.blizzard.com.edgesuite.net/wow-pod-retail/EU/15890.direct/
+server=limelight
+	location=http://llnw.blizzard.com/wow-pod-retail/EU/15890.direct/
+manifest_partial=wow-16309-B3016771FFAD687B5A4B82BA0A464992.mfil
